@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel 👋
 
-*Analista de Sistemas e Cibersegurança** com foco em desenvolver, analisar e proteger sistemas.
+*Analista de Sistemas e Cibersegurança* com foco em desenvolver, analisar e proteger sistemas.
 
 ## 🔐 Sobre mim
 - 💻 Atuo com análise de sistemas e segurança da informação
